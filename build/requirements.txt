@@ -1,0 +1,9 @@
+geomdl
+numpy
+open3d
+pyvista
+rtree
+scipy
+torch
+tqdm
+trimesh
