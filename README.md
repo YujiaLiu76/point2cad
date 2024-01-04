@@ -1,7 +1,7 @@
 # Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds
 
 [![Website](doc/badges/badge-website.svg)](https://www.obukhov.ai/point2cad)
-[![Open In Colab](doc/badges/badge-colab.svg)](https://colab.research.google.com/drive/18mDpuYO5TuI6tSkQk9ls2rS9sciNpR-c?usp=sharing)
+[![Open In Colab](doc/badges/badge-colab.svg)](https://colab.research.google.com/drive/1fYxwWiX_xUyRKcCOERuF6GX4wyPA9BP2)
 [![Docker](doc/badges/badge-docker.svg)](https://hub.docker.com/r/toshas/point2cad)
 
 <p align="center">
